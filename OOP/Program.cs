@@ -12,5 +12,6 @@ namespace OOP
         {
             Console.WriteLine("ahoj");
         }
+        OOP.
     }
 }
